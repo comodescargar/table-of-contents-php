@@ -1,0 +1,2 @@
+# table-of-contents-php
+Pon una tabla de contenidos en cualquier html. Con esta clase podremos integrar una tabla de contenidos al estilo wikipedia en cualquier lugar. También Llamado TOC esta clase está preparada para generar el cuadrito , gracias a mi compañero Hector de &lt;a href="http://comodescargarfull.com" title="como descargar">comodescargarfull.com&lt;/a> por echarme un cable para desarrollar esta clase y que quede todo al estilo de wordpress como en su web
